@@ -1,5 +1,7 @@
 # VLA_Quantization
 
+Intial Summary:
+evo1_BlackwellRTXPRO6000_torchao_W8A16_LLMALL_ACTIONFFN114_quant.ipynb
 
 Ignore the drfiting metrics in the cell outputs, it was later corrected to compare with the no-quant baseline below:
 https://drive.google.com/drive/folders/19ZREDAbMnmVa7sxuA8dNF7l5zY6q5ao6?usp=drive_link
