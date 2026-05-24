@@ -1,7 +1,5 @@
 # VLA_Quantization
 
-Goal Suites: 16 layers, 10 modes
-https://drive.google.com/drive/folders/14yG_z4cM-bqOx6M00lVV3X8TEqj8qYav?usp=drive_link
 
 Ignore the drfiting metrics in the cell outputs, it was later corrected to compare with the no-quant baseline below:
 https://drive.google.com/drive/folders/19ZREDAbMnmVa7sxuA8dNF7l5zY6q5ao6?usp=drive_link
@@ -22,4 +20,7 @@ https://drive.google.com/drive/folders/1PjJhGZoTb4ZT-HWeUXMjSJy7dKVpSsu_?usp=dri
 Stress run 5 tasks, 8 + 1 modes:
 https://drive.google.com/drive/folders/1mrFnQZjeIRynwPcelmP4oVUhXza7_ipt?usp=drive_link
 (episode 5-9) 
+
+Goal Suites: 16 layers, 10 modes
+https://drive.google.com/drive/folders/14yG_z4cM-bqOx6M00lVV3X8TEqj8qYav?usp=drive_link
 
